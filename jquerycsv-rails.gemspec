@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Jquerycsv::Rails::VERSION
   spec.authors       = ["James Koval"]
   spec.email         = ["james.ross.koval@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.summary       = "Rails gem tracking jquery csv"
+  spec.description   = spec.summary
   spec.homepage      = ""
   spec.license       = "MIT"
 
