@@ -1,6 +1,6 @@
 # Jquerycsv::Rails
 
-TODO: Write a gem description
+Rails gem tracking jquery csv
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+[Origin](https://code.google.com/p/jquery-csv/)
 
 ## Contributing
 
