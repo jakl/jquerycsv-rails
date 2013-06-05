@@ -1,4 +1,4 @@
-require "jquerycsv-rails/version"
+require "jquerycsv/rails/version"
 
 module Jquerycsv
   module Rails
